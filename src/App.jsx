@@ -44,7 +44,7 @@ import {
 
 // --- CONFIGURATION ---
 // In this environment, we leave the API key empty to let the platform handle it securely.
-const apiKey = 'AIzaSyDUYYdfmbgLmBmYtJB4GItY3vcWRzhvFAs'; 
+const apiKey = 'AIzaSyDr7htRNEaXH6AlOY9fp2rd0kakAA0zq-A'; 
 
 // --- FIXED CONFIGURATION ---
 // Replaced the crashing JSON.parse with a safe object for Demo Mode
